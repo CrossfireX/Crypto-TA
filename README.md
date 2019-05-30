@@ -1,6 +1,6 @@
 # Crypto-TA
 
-This module displays cryptocurrency value from the supported exchange and generates SMA, MACD and RSI TA in the html. 
+Pull data from the supported exchange (day, hour, minute), generate SMA, MACD, RSI values and display it in the html. 
 
 | Status  | Version | Date       | Maintained? |
 |:------- |:------- |:---------- |:----------- |
