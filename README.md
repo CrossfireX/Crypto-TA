@@ -1,6 +1,6 @@
 # Crypto-TA
 
-This module displays cryptocurrency value from the supported exchange and generates SMA, MACD and RSI TA in an html doc. 
+This module displays cryptocurrency value from the supported exchange and generates SMA, MACD and RSI TA in the html. 
 
 | Status  | Version | Date       | Maintained? |
 |:------- |:------- |:---------- |:----------- |
@@ -12,7 +12,6 @@ This module displays cryptocurrency value from the supported exchange and genera
 ![Example of Crypto-TA RSI](images/rsi.png?raw=true "Example screenshot")
 
 ### Notable Features
-1. Get data for any currency (Coins and Tokens) listed on [Coin Market Cap](https://coinmarketcap.com)
-2. Automatic download of currency logos
-3. Line graph of value changes over 1 day, 1 week, or 1 month
-4. Simple built-in view selection with highly customizable view configuration
+1. Get data from the exchange (day, hour, minute): BTC_getdata.py
+2. Calculate SMA, MACD and RSI: BTC_calc.py
+3. Displays data in html for analysis
